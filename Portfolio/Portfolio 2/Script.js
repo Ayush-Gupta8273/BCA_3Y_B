@@ -3,7 +3,7 @@ let student={
     sname: "Ayush",
     age: 21,
     isWorking: false,
-    img:"C:\Users\devel\Downloads\Boys Cartoon hd pic.jpeg"
+    img:"https://i.pinimg.com/736x/09/24/a7/0924a7ef295741e916c8f42512bbe5bd.jpg"
 }
 let{id,sname,age,isWorking,img}=student
 let info = `
