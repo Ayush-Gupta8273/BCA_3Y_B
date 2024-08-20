@@ -5,7 +5,7 @@ let student={
     isWorking: false,
     img:""
 }
-let{id,sname,age,isWorking,imag}=student
+let{id,sname,age,isWorking,img}=student
 let info = `
     <h1>Welcome</h1>
     <img src="${img}" alt="No image" height="100px" width="100px"><br>
